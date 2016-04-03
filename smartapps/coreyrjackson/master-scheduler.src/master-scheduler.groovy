@@ -48,7 +48,7 @@ preferences {
     input "awayThreshold", "decimal", title: "Number of minutes", required: false
   }
   
-	section("Choose thermostat... 10/28/2015 8:24 PM ") 
+	section("Choose thermostat... 4/3/2016 8:24 PM ") 
     {
 		input "thermostat", "capability.thermostat"
 	}
